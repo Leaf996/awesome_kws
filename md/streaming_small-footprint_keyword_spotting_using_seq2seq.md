@@ -1,6 +1,6 @@
 # streaming_small-footprint_keyword_spotting_using_seq2seq
 ## Question
-- TODO
+- Details for RNN-T training(pred_network), true_label or pred_label ?
 ## Key Concepts
 - RNN-T
 - CTC
